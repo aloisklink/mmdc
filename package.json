@@ -1,0 +1,25 @@
+{
+  "name": "mmdc",
+  "version": "0.0.1",
+  "description": "Dummy package that just depends on @mermaid-js/mermaid-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "*"
+  },
+  "author": {
+    "name": "Alois Klink",
+    "email": "alois@aloisklink.com",
+    "website": "https://aloisklink.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloisklink/mmdc.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aloisklink/mmdc/issues"
+  },
+  "homepage": "https://github.com/aloisklink/mmdc#readme"
+}
